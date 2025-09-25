@@ -2,3 +2,11 @@ site_name: Story of Seasons - Grand Bazaar Outfits
 site_url: https://deathemera.github.io
 theme:
   name: material
+  features:
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - toc.follow
+
