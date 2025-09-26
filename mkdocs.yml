@@ -1,5 +1,14 @@
 site_name: Story of Seasons - Grand Bazaar Outfits
-site_url: https://deathemera.github.io
+site_url: https://deathemera.github.io/sos-grand-wiki
+site_author: deathemera and puffin
+site_description: >-
+  Story of Seasons: Grand Bazaar wiki-like website using Material for MK Docs.
+
+# Repository
+repo_name: deathemera/sos-grand-wiki
+repo_url: https://github.com/deathemera/sos-grand-wiki
+
+# Configuration
 theme:
   name: material
   features:
@@ -9,4 +18,30 @@ theme:
     - navigation.top
     - navigation.sections
     - toc.follow
+  palette:
+      - media: "(prefers-color-scheme)"
+        toggle:
+          icon: material/link
+          name: Switch to light mode
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: indigo
+        accent: indigo
+        toggle:
+          icon: material/toggle-switch
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: black
+        accent: indigo
+        toggle:
+          icon: material/toggle-switch-off
+          name: Switch to system preference
 
+# Page tree
+nav:
+  - Home: index.md
+  - Outfits:
+    - Clothing: clothing.md
+    - Glasses: glasses.md
+    - Headwear: headwear.md
