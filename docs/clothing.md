@@ -206,6 +206,13 @@
 - 2 natural dye (green)
 - 6,000g
 
+### Apron dress (green)
+![aprongreen.jpg](../assets/images/aprongreen.jpg)
+
+- 2 woolen yarn
+- 2 natural dye (green)
+- 6,000g
+
 ### Apron dress (pink)
 ![apronpink.jpg](../assets/images/apronpink.jpg)
 
@@ -305,6 +312,13 @@
 - 3 warm dye (red)
 - 10,000g
 
+### Casual sweater (white)
+![sweaterwhite.jpg](../assets/images/sweaterwhite.jpg)
+
+- 3 woolen yarn
+- 3 elegant dye (white)
+- 10,000g
+
 ### Casual sweater (blue)
 ![sweaterblue.jpg](../assets/images/sweaterblue.jpg)
 
@@ -350,6 +364,14 @@
 - 3 suffolk yarn
 - 3 elegant dye (white)
 - 3 warm dye (red)
+- 10,000g
+
+### Sweater & tights (green)
+![sweatertightsgreen.jpg](../assets/images/sweatertightsgreen.jpg)
+
+- 3 suffolk yarn
+- 3 noble dye (purple)
+- 3 natural dye (green)
 - 10,000g
 
 ### Stylish sweater & tights
