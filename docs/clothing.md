@@ -223,30 +223,33 @@
 - 4 cool dye (blue)
 - 30,000g
 
-
 ## Zephyr town attire
 
 ### Zephyr town attire (blue)
-![[zephyrblue.jpg]]
+![zephyrblue.jpg](../assets/images/zephyrblue.jpg)
+
 - 2 brown alpaca yarn
 - 2 cool dye (blue)
 - 6,000g
 
 ### Zephyr town attire (purple)
-![[zephyrpurple.jpg]]
+![zephyrpurple.jpg](../assets/images/zephyrpurple.jpg)
+
 - 2 brown alpaca yarn
 - 2 noble dye (purple)
 - 6,000g
 
 ### Zephyr town attire (yellow)
-![[zephyryellow.jpg]]
+![zephyryellow.jpg](../assets/images/zephyryellow.jpg)
+
 - 2 brown alpaca yarn
 - 2 warm dye (red)
 - 2 natural dye (green)
 - 6,000g
 
 ### Stylish Zephyr town attire
-![[stylishzephyr.jpg]]
+![stylishzephyr.jpg](../assets/images/stylishzephyr.jpg)
+
 - 4 brown alpaca yarn +
 - 4 alpaca yarn +
 - 4 natural dye (green)
@@ -256,32 +259,37 @@
 ## Festival attire
 
 ### Festival attire (red)
-![[festivalred.jpg]]
+![festivalred.jpg](../assets/images/festivalred.jpg)
+
 - 2 suffolk yarn
 - 2 warm dye (red)
 - 6,000g
 
 ### Festival attire (yellow)
-![[festivalyellow.jpg]]
+![festivalyellow.jpg](../assets/images/festivalyellow.jpg)
+
 - 2 suffolk yarn
 - 2 warm dye (red)
 - 2 natural dye (green)
 - 6,000g
 
 ### Festival attire (green)
-![[festivalgreen.jpg]]
+![festivalgreen.jpg](../assets/images/festivalgreen.jpg)
+
 - 2 suffolk yarn
 - 2 natural dye (green)
 - 6,000g
 
 ### Festival attire (blue)
-![[festivalblue.jpg]]
+![festivalblue.jpg](../assets/images/festivalblue.jpg)
+
 - 2 suffolk yarn
 - 2 cool dye (blue)
 - 6,000g
 
 ### Stylish festival attire
-![[stylishfestival.jpg]]
+![stylishfestival.jpg](../assets/images/stylishfestival.jpg)
+
 - 4 suffolk yarn +
 - 4 woolen yarn +
 - 4 noble dye (purple)
@@ -291,25 +299,29 @@
 ## Casual sweater
 
 ### Casual sweater (red)
-![[sweaterred.jpg]]
+![sweaterred.jpg](../assets/images/sweaterred.jpg)
+
 - 3 woolen yarn
 - 3 warm dye (red)
 - 10,000g
 
 ### Casual sweater (blue)
-![[sweaterblue.jpg]]
+![sweaterblue.jpg](../assets/images/sweaterblue.jpg)
+
 - 3 woolen yarn
 - 3 cool dye (blue)
 - 10,000g
 
 ### Casual sweater (black)
-![[sweaterblack.jpg]]
+![sweaterblack.jpg](../assets/images/sweaterblack.jpg)
+
 - 3 woolen yarn
 - 3 noble dye (purple)
 - 10,000g
 
 ### Stylish casual sweater
-![[stylishsweater.jpg]]
+![stylishsweater.jpg](../assets/images/stylishsweater.jpg)
+
 - 6 woolen yarn +
 - 6 suffolk yarn +
 - 6 elegant dye (white)
@@ -319,26 +331,30 @@
 ## Sweater & tights
 
 ### Sweater & tights (gray)
-![[sweatertightsgray.jpg]]
+![sweatertightsgray.jpg](../assets/images/sweatertightsgray.jpg)
+
 - 3 suffolk yarn
 - 3 elegant dye (white)
 - 10,000g
 
 ### Sweater & tights (blue)
-![[sweatertightsblue.jpg]]
+![sweatertightsblue.jpg](../assets/images/sweatertightsblue.jpg)
+
 - 3 suffolk yarn
 - 3 cool dye (blue)
 - 10,000g
 
 ### Sweater & tights (pink)
-![[sweatertightspink.jpg]]
+![sweatertightspink.jpg](../assets/images/sweatertightspink.jpg)
+
 - 3 suffolk yarn
 - 3 elegant dye (white)
 - 3 warm dye (red)
 - 10,000g
 
 ### Stylish sweater & tights
-![[stylishsweatertights.jpg]]
+![stylishsweatertights.jpg](../assets/images/stylishsweatertights.jpg)
+
 - 6 suffolk yarn +
 - 6 woolen yarn +
 - 6 elegant dye (white)
@@ -348,25 +364,29 @@
 ## Peacoat
 
 ### Peacoat (blue)
-![[peacoatblue.jpg]]
+![peacoatblue.jpg](../assets/images/peacoatblue.jpg)
+
 - 3 alpaca yarn
 - 3 cool dye (blue)
 - 10,000g
 
 ### Peacoat (green)
-![[peacoatgreen.jpg]]
+![peacoatgreen.jpg](../assets/images/peacoatgreen.jpg)
+
 - 3 alpaca yarn
 - 3 natural dye (green)
 - 10,000g
 
 ### Peacoat (white)
-![[peacoatwhite.jpg]]
+![peacoatwhite.jpg](../assets/images/peacoatwhite.jpg)
+
 - 3 alpaca yarn
 - 3 elegant dye (white)
 - 10,000g
 
 ### Stylish peacoat
-![[stylishpeacoat.jpg]]
+![stylishpeacoat.jpg](../assets/images/stylishpeacoat.jpg)
+
 - 6 alpaca yarn +
 - 6 brown alpaca yarn +
 - 6 noble dye (purple)
@@ -375,32 +395,37 @@
 ## Glossy jacket
 
 ### Glossy jacket (brown)
-![[jacketbrown.jpg]]
+![jacketbrown.jpg](../assets/images/jacketbrown.jpg)
+
 - 3 brown alpaca yarn
 - 3 warm dye (red)
 - 3 natural dye (green)
 - 10,000g
 
 ### Glossy jacket (blue)
-![[jacketblue.jpg]]
+![jacketblue.jpg](../assets/images/jacketblue.jpg)
+
 - 3 brown alpaca yarn
 - 3 cool dye (blue)
 - 10,000g
 
 ### Glossy jacket (red)
-![[jacketred.jpg]]
+![jacketred.jpg](../assets/images/jacketred.jpg)
+
 - 3 brown alpaca yarn
 - 3 warm dye (red)
 - 10,000g
 
 ### Glossy jacket (black)
-![[jacketblack.jpg]]
+![jacketblack.jpg](../assets/images/jacketblack.jpg)
+
 - 3 brown alpaca yarn
 - 3 noble dye (purple)
 - 10,000g
 
 ### Stylish glossy jacket
-![[stylishjacket.jpg]]
+![stylishjacket.jpg](../assets/images/stylishjacket.jpg)
+
 - 6 brown alpaca yarn +
 - 6 alpaca yarn +
 - 6 elegant dye (white)
@@ -410,7 +435,8 @@
 ## Suit & tie
 
 ### Suit & tie (brown)
-![[suitbrown.jpg]]
+![suitbrown.jpg](../assets/images/suitbrown.jpg)
+
 - 4 brown alpaca yarn
 - 4 alpaca yarn
 - 4 warm dye (red)
@@ -418,21 +444,24 @@
 - 20,000g
 
 ### Suit & tie (gray)
-![[suitgray.jpg]]
+![suitgray.jpg](../assets/images/suitgray.jpg)
+
 - 4 brown alpaca yarn
 - 4 alpaca yarn
 - 4 cool dye (blue)
 - 20,000g
 
 ### Suit & tie (green)
-![[suitgreen.jpg]]
+![suitgreen.jpg](../assets/images/suitgreen.jpg)
+
 - 4 brown alpaca yarn
 - 4 alpaca yarn
 - 4 natural dye (green)
 - 20,000g
 
 ### Stylish suit & tie
-![[stylishsuit.jpg]]
+![stylishsuit.jpg](../assets/images/stylishsuit.jpg)
+
 - 8 brown alpaca yarn +
 - 8 alpaca yarn +
 - 8 noble dye (purple)
@@ -442,14 +471,16 @@
 ## Pantsuit
 
 ### Pantsuit (pink)
-![[pantsuitpink.jpg]]
+![pantsuitpink.jpg](../assets/images/pantsuitpink.jpg)
+
 - 4 suffolk yarn
 - 4 woolen yarn
 - 4 warm dye (red)
 - 20,000g
 
 ### Pantsuit (yellow)
-![[pantsuityellow.jpg]]
+![pantsuityellow.jpg](../assets/images/pantsuityellow.jpg)
+
 - 4 suffolk yarn
 - 4 woolen yarn
 - 4 warm dye (red)
@@ -457,14 +488,16 @@
 - 20,000g
 
 ### Pantsuit (blue)
-![[pantsuitblue.jpg]]
+![pantsuitblue.jpg](../assets/images/pantsuitblue.jpg)
+
 - 4 suffolk yarn
 - 4 woolen yarn
 - 4 cool dye (blue)
 - 20,000g
 
 ### Stylish pantsuit
-![[stylishpantsuit.jpg]]
+![stylishpantsuit.jpg](../assets/images/stylishpantsuit.jpg)
+
 - 8 suffolk yarn +
 - 8 woolen yarn +
 - 8 noble dye (purple)
@@ -474,13 +507,15 @@
 ## Trendy hoodie
 
 ### Trendy hoodie (purple)
-![[hoodiepurple.jpg]]
+![hoodiepurple.jpg](../assets/images/hoodiepurple.jpg)
+
 - 4 woolen yarn
 - 4 noble dye (purple)
 - 20,000g
 
 ### Trendy hoodie (black)
-![[hoodieblack.jpg]]
+![hoodieblack.jpg](../assets/images/hoodieblack.jpg)
+
 - 4 woolen yarn
 - 4 warm dye (red)
 - 4 cool dye (blue)
@@ -488,20 +523,23 @@
 - 20,000g
 
 ### Trendy hoodie (green)
-![[hoodiegreen.jpg]]
+![hoodiegreen.jpg](../assets/images/hoodiegreen.jpg)
+
 - 4 woolen yarn
 - 4 natural dye (green)
 - 4 warm dye (red)
 - 20,000g
 
 ### Trendy hoodie (white)
-![[hoodiewhite.jpg]]
+![hoodiewhite.jpg](../assets/images/hoodiewhite.jpg)
+
 - 4 woolen yarn
 - 4 elegant dye
 - 20,000g
 
 ### Trendy hoodie (pink)
-![[hoodiepink.jpg]]
+![hoodiepink.jpg](../assets/images/hoodiepink.jpg)
+
 - 4 woolen yarn
 - 4 warm dye (red)
 - 4 cool dye (blue)
@@ -510,14 +548,16 @@
 ## Gothic suspenders
 
 ### Gothic suspenders (blue)
-![[gothicblue 1.jpg]]
+![gothicblue 1.jpg](../assets/images/gothicblue 1.jpg)
+
 - 5 suffolk yarn
 - 5 woolen yarn
 - 5 cool dye (blue)
 - 50,000g
 
 ### Gothic suspenders (yellow)
-![[gothicyellow.jpg]]
+![gothicyellow.jpg](../assets/images/gothicyellow.jpg)
+
 - 5 suffolk yarn
 - 5 woolen yarn
 - 5 warm dye (red)
@@ -525,14 +565,16 @@
 - 50,000g
 
 ### Gothic suspenders (purple)
-![[gothicpurple.jpg]]
+![gothicpurple.jpg](../assets/images/gothicpurple.jpg)
+
 - 5 suffolk yarn
 - 5 woolen yarn
 - 5 noble dye (purple)
 - 50,000g
 
 ### Stylish gothic suspenders
-![[stylishgothic.jpg]]
+![stylishgothic.jpg](../assets/images/stylishgothic.jpg)
+
 - 10 suffolk yarn +
 - 10 woolen yarn +
 - 10 noble dye (purple)
@@ -542,7 +584,8 @@
 ## Duffle coat
 
 ### Duffle coat (black)
-![[duffleblack.jpg]]
+![duffleblack.jpg](../assets/images/duffleblack.jpg)
+
 - 5 brown alpaca yarn
 - 5 alpaca yarn
 - 5 noble dye (purple)
@@ -550,7 +593,8 @@
 - 50,000g
 
 ### Duffle coat (yellow)
-![[duffleyellow.jpg]]
+![duffleyellow.jpg](../assets/images/duffleyellow.jpg)
+
 - 5 brown alpaca yarn
 - 5 alpaca yarn
 - 5 warm dye (red)
@@ -558,14 +602,16 @@
 - 50,000g
 
 ### Duffle coat (white)
-![[dufflewhite.jpg]]
+![dufflewhite.jpg](../assets/images/dufflewhite.jpg)
+
 - 5 brown alpaca yarn
 - 5 alpaca yarn
 - 5 elegant dye (white)
 - 50,000g
 
 ### Stylish duffle coat
-![[stylishduffle.jpg]]
+![stylishduffle.jpg](../assets/images/stylishduffle.jpg)
+
 - 10 brown alpaca yarn +
 - 10 alpaca yarn +
 - 10 wool +
@@ -575,33 +621,38 @@
 ## Down jacket
 
 ### Down jacket (blue)
-![[downblue.jpg]]
+![downblue.jpg](../assets/images/downblue.jpg)
+
 - 5 alpaca yarn
 - 5 cool dye (blue)
 - 50,000g
 
 ### Down jacket (red)
-![[downred.jpg]]
+![downred.jpg](../assets/images/downred.jpg)
+
 - 5 alpaca yarn
 - 5 warm dye (red)
 - 5 elegant dye (white)
 - 50,000g
 
 ### Down jacket (purple)
-![[downpurple.jpg]]
+![downpurple.jpg](../assets/images/downpurple.jpg)
+
 - 5 alpaca yarn
 - 5 noble dye (purple)
 - 5 warm dye (red)
 - 50,000g
 
 ### Down jacket (brown)
-![[downbrown.jpg]]
+![downbrown.jpg](../assets/images/downbrown.jpg)
+
 - 5 alpaca yarn
 - 5 warm dye (red)
 - 50,000g
 
 ### Down jacket (gray)
-![[downgray.jpg]]
+![downgray.jpg](../assets/images/downgray.jpg)
+
 - 5 alpaca yarn
 - 5 elegant dye (white)
 - 5 noble dye (purple)
